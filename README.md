@@ -42,7 +42,7 @@ modelling.
 
 ## Team
 - **Data Engineer:** Nithin Varghese — data preparation, preprocessing, EDA
-- **Data Scientist:** _[teammate name]_ — clustering analysis
+- **Data Analyst:** _[Sangeeta Shrestha]_ — clustering analysis
 - **Project Manager:** _[teammate name]_ — repository submission, coordination
 
 ## How to Reproduce
