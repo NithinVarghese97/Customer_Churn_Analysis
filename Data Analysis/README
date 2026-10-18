@@ -1,0 +1,27 @@
+Business Analysis – Customer Churn Project
+
+Overview
+
+This folder contains the Business Analyst deliverables for the Customer Churn Analysis project, bringing together the clustering and predictive modelling outputs into business-facing findings and recommendations.
+
+Contents
+
+- `Final_Report.docx` / `Final_Report.pdf` – Full final report: executive summary, methodology, churn drivers, high-risk segments, retention strategies, prioritised recommendations, business implications, and limitations.
+- `Cluster_Summary.xlsx` – Working spreadsheet summarising Sangeeta's clustering output by segment, risk level and churn rate.
+
+Key Findings
+
+- Overall churn rate: **26.57%** across 6,741 customers.
+- Highest-risk segment: short-tenure, high-monthly-charge customers (**48.8% churn**, 31.5% of customer base).
+- Best predictive model: Logistic Regression (**81.79% ROC-AUC**, 76.54% recall).
+
+ Business Analyst Role
+
+- Identified key churn and retention drivers from clustering and predictive modelling outputs.
+- Analysed high-risk customer segments and their business impact.
+- Developed and prioritised targeted retention strategies.
+- Documented limitations, challenges and proposed solutions.
+- Compiled the Final Report for stakeholder presentation.
+
+ Author
+Nirmal – Business Analyst
